@@ -1,2 +1,2 @@
 # FrenchDraymond
-개인 블로그
+Basketball visualization 
